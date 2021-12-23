@@ -11,22 +11,53 @@ const lines = {
         'ola pola'
     ],
     'mad': [
-        'dat kan toch niet.'
+        'dat kan toch niet.',
+        'fuck dat',
+        'Mannekes, mannekes',
+        'Hoe durft die',
+        'Zo krijg je me boos',
+        'ik heb er genoeg van'
     ],
     'invested': [
-        'euheu...... ja'
+        'euheu...... ja',
+        'hmm',
+        'zeg maar',
+        'nou',
+        'vertel',
+        'o'
     ],
     'happy': [
-        'Dat klinkt goed'
+        'Dat klinkt goed',
+        'super!',
+        'eindelijk!',
+        'Ik ben blij voor je',
+        'Daar word ik goed gezind van',
+        'Goed nieuws!',
+        'wauw!'
     ],
     'glad': [
-        'Oef al maar goed'
+        'Oef al maar goed',
+        'oh ik dacht al',
+        'gelukkig maar',
+        'ik werd even bang',
+        'mijn hart was al aan het tikken',
+        'oef'
     ],
     'confused': [
-        'Heu, hoezo?'
+        'Heu, hoezo?',
+        'wat?',
+        'wablieft?',
+        'wie?',
+        'wat bedoel je',
+        'wacht, wat?'
     ],
     'gtfo': [
-        'Sam is verdwenen, ik moet hem gaan zoeken!'
+        'Sam is verdwenen, ik moet hem gaan zoeken!',
+        'Ik moet morgen vroeg op, ik ga slapen!',
+        'Shit ik ben mijn sleutels kwijt',
+        'Volgens mij wil bob even wandelen',
+        'Lasse heeft weer 10 autos vernield, ik moet gaan',
+        'Mijn ribbetjes zijn aan het aanbranden!'
     ],
 }
 
